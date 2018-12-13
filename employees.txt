@@ -1,2 +1,2 @@
-Mark
-John
+Mark | 0123 7890
+John | 0124 4321
