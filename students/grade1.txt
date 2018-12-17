@@ -1,2 +1,3 @@
 John > 99
 James > 100
+Tahir > 50
